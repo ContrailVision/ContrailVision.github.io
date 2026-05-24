@@ -22,13 +22,6 @@
       "url": "https://www.metoffice.gov.uk"
     },
     {
-      "id": "oxford",
-      "name": "University of Oxford",
-      "logo": "/logos/oxford.png",
-      "logoFallback": "",
-      "url": "https://www.ox.ac.uk"
-    },
-    {
       "id": "nerc",
       "name": "UKRI / NERC",
       "logo": "/logos/nerc.png",
